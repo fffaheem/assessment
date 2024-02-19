@@ -1,11 +1,24 @@
-Dependecy required : pip install flask
+This is a simple book library system implemented in Python using Flask. It allows users to add books, remove books, search for books, borrow books, and return books.
+
+
+Requirements
+• Python 3.x
+• Flask
+• POSTMAN (for testing)
+
+to install flask : pip install flask
 
 
 to run the app 
-just run the main.py file
+1. Clone this repository to your local machine:
+	git clone https://github.com/fffaheem/assessment
+
+2. just run the main.py file
+
+3. Use POSTMAN or any other HTTP client to interact with the API endpoints.
 
 
-it runs in http://127.0.0.1:5000
+* it runs in http://127.0.0.1:5000
 
 Endpoints: 
 
